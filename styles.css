@@ -1,0 +1,28 @@
+.header, ul, footer {
+    display: flex;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    justify-content: space-around;
+}
+
+ul{
+    list-style-type: none;
+    color: #E5E7EB;
+    gap: 20px;
+}
+
+.extendedheader{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.leftside{
+    font-size: 24px;
+    font-weight: bolder;
+    justify-content: space-around;
+}
+
+.image{
+    font-size: 18px;
+    justify-content: space-around;
+}
